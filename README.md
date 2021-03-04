@@ -1,24 +1,10 @@
-# tarot-app
+# 🔮 Tarot of the Day 🔮
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Stack:
+- `VueJS`
+- `https://github.com/ekelen/tarot-api` API
+- `https://www.sacred-texts.com/tarot/` for images
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+If you wanted to run this locally, please `npm install` to get all the dependencies.
+Run `npm run serve` to run locally. 
